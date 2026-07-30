@@ -26,5 +26,5 @@ A fast and powerful music bot for Telegram that allows you to play songs from Yo
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/tgmusicbot.git
+git clone https://github.com/sourya791m/tgmusicbot.git
 cd tgmusicbot
